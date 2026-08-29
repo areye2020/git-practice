@@ -6,5 +6,4 @@ This is a practice repository for learning Git.
 
 - How to initialize a repository
 - How to stage and commit changes
-- How to create and work with branches
-
+- How to work with branches in Git
